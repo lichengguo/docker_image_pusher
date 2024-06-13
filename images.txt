@@ -3,7 +3,6 @@ alpine:3.10
 alpine:3.12
 busybox
 nginx
-nginx:1.9.1
 python:3.7-slim-stretch
 golang:1.13-alpine3.10
 node:12.6.0-alpine
