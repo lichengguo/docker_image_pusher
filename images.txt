@@ -1,3 +1,10 @@
-traefik/whoami:v1.10
-ghcr.io/stakater/reloader:v1.0.51
-elastic/filebeat:8.11.3
+quay.io/prometheus/prometheus:v2.22.1
+quay.io/prometheus-operator/prometheus-operator:v0.43.2
+quay.io/prometheus/node-exporter:v1.0.1
+quay.io/prometheus/alertmanager:v0.21.0
+quay.io/fabxc/prometheus_demo_service
+quay.io/coreos/kube-state-metrics:v1.9.7
+quay.io/brancz/kube-rbac-proxy:v0.8.0
+grafana/grafana:7.3.4
+gcr.io/google_containers/metrics-server-amd64:v0.2.01
+directxman12/k8s-prometheus-adapter:v0.8.2
