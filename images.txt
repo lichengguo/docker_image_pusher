@@ -20,3 +20,6 @@ redis:6.2.0-alpine3.13
 gitlab/gitlab-runner:v13.10.0
 nginx:1.21.6
 nginx:1.25.5
+nginx:1.25.1
+mysql:5.7.14
+nicolaka/netshoot
