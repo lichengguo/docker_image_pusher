@@ -7,7 +7,6 @@ python:3.7-slim-stretch
 golang:1.13-alpine3.10
 node:12.6.0-alpine
 maven:3.6.3-adoptopenjdk-8
-java:8
 tomcat:7.0
 elastic/elasticsearch:6.8.13
 elastic/elasticsearch:7.10.1
