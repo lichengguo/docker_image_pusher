@@ -1,5 +1,2 @@
-quay.io/coreos/kube-state-metrics:v1.9.7
-quay.io/brancz/kube-rbac-proxy:v0.8.0
-grafana/grafana:7.3.4
-gcr.io/google_containers/metrics-server-amd64:v0.2.01
-directxman12/k8s-prometheus-adapter:v0.8.2
+golang:1.19.11-alpine3.18
+alpine:3.18
