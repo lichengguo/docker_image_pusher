@@ -1,1 +1,1 @@
-quay.io/bitnami/heapster:1.5.4
+mysql:latest
