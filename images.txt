@@ -1,1 +1,1 @@
-nginx:1.7.9
+quay.io/bitnami/heapster:1.5.4
