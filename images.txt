@@ -1,1 +1,1 @@
-mysql:latest
+jenkins/jenkins:2.190.3
