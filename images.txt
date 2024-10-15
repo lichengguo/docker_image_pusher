@@ -1,1 +1,2 @@
-php:8.0.1-fpm-alpine
+maven:3.6.3-adoptopenjdk-8
+java:8
