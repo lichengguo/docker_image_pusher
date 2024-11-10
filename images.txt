@@ -1,2 +1,2 @@
-elasticsearch:8.11.3
-kibana:8.11.3
+kibana:6.8.6
+elasticsearch:6.8.6
