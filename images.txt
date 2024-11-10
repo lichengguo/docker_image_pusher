@@ -1,1 +1,2 @@
-docker.elastic.co/eck/eck-operator:2.7.0
+elasticsearch:8.11.3
+kibana:8.11.3
