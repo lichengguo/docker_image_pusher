@@ -1,1 +1,1 @@
-filebeat:6.8.6
+elastic/filebeat:6.8.6
