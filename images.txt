@@ -1,1 +1,1 @@
-tomcat:7.0
+filebeat:6.8.6
