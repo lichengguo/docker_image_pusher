@@ -1,1 +1,1 @@
-elastic/filebeat:6.8.6
+elastic/logstash:6.8.6
