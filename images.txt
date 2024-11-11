@@ -1,1 +1,1 @@
-williamguozi/log-pilot-filebeat:containerd
+tomcat:7.0
