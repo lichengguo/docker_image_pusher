@@ -1,1 +1,1 @@
-elastic/logstash:6.8.6
+bitnami/kafka:2.2.0
