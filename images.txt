@@ -1,1 +1,1 @@
-logstash:6.8.6
+jenkinsci/jnlp-slave:latest
