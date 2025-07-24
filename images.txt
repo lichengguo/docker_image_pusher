@@ -1,2 +1,2 @@
-unstructured-io/unstructured-api:latest
+downloads.unstructured.io/unstructured-io/unstructured-api:latest
 --platform linux/arm64 myscale/myscaledb:1.6.4
