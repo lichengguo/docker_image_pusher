@@ -1,1 +1,1 @@
---platform linux/arm64 vastdata/vastbase-vector
+vastdata/vastbase-vector
