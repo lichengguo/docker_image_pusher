@@ -1,1 +1,9 @@
-rancher/aks-operator:v1.11.0
+rancher/backup-restore-operator:v7.0.0
+rancher/calico-cni:v3.28.1-rancher1
+rancher/calico-cni:v3.29.0-rancher1
+rancher/cis-operator:v1.4.0
+rancher/eks-operator:v1.11.0
+rancher/flannel-cni:v1.4.1-rancher1
+rancher/fleet-agent:v0.12.0
+rancher/fleet:v0.12.0
+rancher/gke-operator:v1.11.0
